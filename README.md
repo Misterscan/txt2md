@@ -1,6 +1,6 @@
 # txt2md
 
-A CLI tool to batch convert plain text (`.txt`) files to Markdown (`.md`). It understands the output format of [codebase-convert](https://github.com/Misterscan/txt2md) and formats code blocks with proper syntax highlighting based on file extensions.
+A CLI tool to batch convert plain text (`.txt`) files to Markdown (`.md`). It understands the output format of [codebase-convert](https://github.com/Misterscan/codebase_convert) and formats code blocks with proper syntax highlighting based on file extensions.
 
 ## Features
 
